@@ -1,2 +1,2 @@
-knock knock joke
+knock knock joke\n
 answer here
